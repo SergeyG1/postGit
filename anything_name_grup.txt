@@ -1,0 +1,26 @@
+﻿{
+    "args": {},
+    "data": "{\r\n    \"name\" : \"Sergey\",\r\n\"surname\" : \"Hetman\",\r\n\"course\" : \"QA\",\r\n\"group\": \"QA-22\"\r\n}",
+    "files": {},
+    "form": {},
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Cache-Control": "no-cache",
+        "Content-Length": "87",
+        "Content-Type": "application/json",
+        "Host": "httpbin.org",
+        "Postman-Token": "32109b08-3d2e-470d-a457-8f62d7a0e02c",
+        "User-Agent": "PostmanRuntime/7.29.2",
+        "X-Amzn-Trace-Id": "Root=1-62f22ca3-1568e49b0a982e257c0a2ff4"
+    },
+    "json": {
+        "course": "QA",
+        "group": "QA-22",
+        "name": "Sergey",
+        "surname": "Hetman"
+    },
+    "method": "POST",
+    "origin": "54.86.50.139",
+    "url": "http://httpbin.org/anything"
+}
