@@ -1,0 +1,12 @@
+﻿{
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Cache-Control": "no-cache",
+        "Content-Length": "0",
+        "Host": "httpbin.org",
+        "Postman-Token": "58ce68d3-6d2a-422b-a894-a5b55881774b",
+        "User-Agent": "PostmanRuntime/7.29.2",
+        "X-Amzn-Trace-Id": "Root=1-62f22484-11709fd55d582ee620ad8e39"
+    }
+}
